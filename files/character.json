@@ -1,0 +1,16 @@
+{
+    "Response": {
+        "inventory": {
+            "privacy": 2
+        },
+        "loadouts": {
+            "privacy": 2
+        },
+        "uninstancedItemComponents": {}
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}
