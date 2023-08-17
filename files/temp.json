@@ -1,0 +1,59 @@
+[
+    {
+        "classType": 2,
+        "displayProperties": {
+            "name": "Arcano",
+            "hasIcon": false
+        },
+        "genderedClassNames": {
+            "Male": "Arcano",
+            "Female": "Arcana"
+        },
+        "genderedClassNamesByGenderHash": {
+            "3111576190": "Arcano",
+            "2204441813": "Arcana"
+        },
+        "hash": 2271682572,
+        "index": 2,
+        "redacted": false,
+        "blacklisted": false
+    },
+    {
+        "classType": 0,
+        "displayProperties": {
+            "name": "Tit\u00e3",
+            "hasIcon": false
+        },
+        "genderedClassNames": {
+            "Male": "Tit\u00e3",
+            "Female": "Tit\u00e3"
+        },
+        "genderedClassNamesByGenderHash": {
+            "3111576190": "Tit\u00e3",
+            "2204441813": "Tit\u00e3"
+        },
+        "hash": 3655393761,
+        "index": 0,
+        "redacted": false,
+        "blacklisted": false
+    },
+    {
+        "classType": 1,
+        "displayProperties": {
+            "name": "Ca\u00e7ador",
+            "hasIcon": false
+        },
+        "genderedClassNames": {
+            "Male": "Ca\u00e7ador",
+            "Female": "Ca\u00e7ador"
+        },
+        "genderedClassNamesByGenderHash": {
+            "3111576190": "Ca\u00e7ador",
+            "2204441813": "Ca\u00e7ador"
+        },
+        "hash": 671679327,
+        "index": 1,
+        "redacted": false,
+        "blacklisted": false
+    }
+]

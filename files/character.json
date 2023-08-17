@@ -1,10 +1,55 @@
 {
     "Response": {
-        "inventory": {
-            "privacy": 2
-        },
-        "loadouts": {
-            "privacy": 2
+        "character": {
+            "data": {
+                "membershipId": "4611686018522422927",
+                "membershipType": 3,
+                "characterId": "2305843010489294101",
+                "dateLastPlayed": "2023-08-12T21:03:36Z",
+                "minutesPlayedThisSession": "19",
+                "minutesPlayedTotal": "19",
+                "light": 1609,
+                "stats": {
+                    "1935470627": 1609,
+                    "2996146975": 33,
+                    "392767087": 12,
+                    "1943323491": 51,
+                    "1735777505": 38,
+                    "144602215": 24,
+                    "4244567218": 33
+                },
+                "raceHash": 898834093,
+                "genderHash": 2204441813,
+                "classHash": 3655393761,
+                "raceType": 2,
+                "classType": 0,
+                "genderType": 1,
+                "emblemPath": "/common/destiny2_content/icons/93844c8b76ea80683a880479e3506980.jpg",
+                "emblemBackgroundPath": "/common/destiny2_content/icons/ecafe3e611c54e78656b85b77c8ee2f7.jpg",
+                "emblemHash": 1907674139,
+                "emblemColor": {
+                    "red": 83,
+                    "green": 9,
+                    "blue": 5,
+                    "alpha": 255
+                },
+                "levelProgression": {
+                    "progressionHash": 1716568313,
+                    "dailyProgress": 0,
+                    "dailyLimit": 0,
+                    "weeklyProgress": 0,
+                    "weeklyLimit": 0,
+                    "currentProgress": 0,
+                    "level": 50,
+                    "levelCap": 50,
+                    "stepIndex": 50,
+                    "progressToNextLevel": 0,
+                    "nextLevelAt": 0
+                },
+                "baseCharacterLevel": 50,
+                "percentToNextLevel": 0.0
+            },
+            "privacy": 1
         },
         "uninstancedItemComponents": {}
     },
