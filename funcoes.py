@@ -62,7 +62,7 @@ with open(file, 'r') as json_file:
     
 
 # Função para mostrar o resultado com base no hash da classe
-def show_result():
+def show_class():
     global found_object
     # Encontra o hash da classe do personagem
     target_hash = find_char_class()

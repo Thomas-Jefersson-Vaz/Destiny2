@@ -17,4 +17,4 @@ else:
     print('Error: ', res)
     
 print('* '*28)
-funcoes.show_result()
+print()
